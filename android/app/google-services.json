@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985657202537",
+    "project_id": "udlogin-78954",
+    "storage_bucket": "udlogin-78954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985657202537:android:dcd82b5ce7902315130ff8",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985657202537-18hdcf1qp7qtf4aq9daf1m9d3e8519b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrXDCSoSs8alDJHHV5Ski67vigjHtblQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985657202537-18hdcf1qp7qtf4aq9daf1m9d3e8519b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
